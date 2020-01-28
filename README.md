@@ -2,7 +2,7 @@
 
 ### Pre-requisitos 📋
 
-_Cosas necesiras para ejecutar el proyecto y como instalarlas_
+_Cosas necesarias para ejecutar el proyecto y como instalarlas_
 
 * [.NET Core 2.2 SDK](https://dotnet.microsoft.com/download/dotnet-core/2.2) - El framework web usado .NET Core en su versión 2.2
 * [Node.js](https://nodejs.org/en/) - Angular requiere de Node.js version 12 en adelante
